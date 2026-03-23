@@ -21,10 +21,12 @@ You can interact with the full design and view the workflow here:
 [**View Interactive Figma Prototype**](https://www.figma.com/design/jfLikQiuD12ldkjAJ9pVJC/ReVibe?node-id=0-1&t=9B7OkoFmkGjNCWpq-1)
 ## 📱 Interface Preview
 
-### Home Feed (Video-First Listings)
 The homepage features the "ReVibe Reels" concept, allowing users to see clothes in motion.
+
 ![Homepage](Revibe Homepage.png)
 
 ### The Swap Interface
+
 A dedicated space for users to manage their active swaps and community requests.
+
 ![Swap Page](Revibe Swap page.png)
