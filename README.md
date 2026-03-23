@@ -23,10 +23,10 @@ You can interact with the full design and view the workflow here:
 
 The homepage features the "ReVibe Reels" concept, allowing users to see clothes in motion.
 
-![Homepage](Revibe Homepage.png)
+![Homepage](Revibe_Homepage.png)
 
 ### The Swap Interface
 
 A dedicated space for users to manage their active swaps and community requests.
 
-![Swap Page](Revibe Swap page.png)
+![Swap Page](Revibe_Swap_page.png)
